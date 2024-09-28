@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: gray;
+}
+
+.border-img {
+    border: solid 2px red;
+}
+
